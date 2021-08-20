@@ -7,7 +7,7 @@ namespace Repeticao {
             Console.WriteLine("Qual função deseja utilizar? ");
             Console.WriteLine("1) Verifica senha correta");
             Console.WriteLine("2) Verifica quadrante pertencente");
-            Console.WriteLine("3) Calcula preferencia de combustivel");
+            Console.WriteLine("3) Calcula preferência de combustível");
             Console.WriteLine("4) Imprime numeros impares ate numero digitado");
             Console.WriteLine("5) Imprime qtd de numeros dentro do intervalo");
             Console.WriteLine("6) Calcula media ponderada");
